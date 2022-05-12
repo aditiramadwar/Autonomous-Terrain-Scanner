@@ -1,6 +1,6 @@
 
   
-# Autonomous Lawn Mower - ALM
+# Autonomous Terrain Scanner
 
 [![Build Status](https://app.travis-ci.com/llDev-Rootll/Autonomous_Lawn_Mower.svg?branch=master)](https://app.travis-ci.com/llDev-Rootll/Autonomous_Lawn_Mower)
 
